@@ -75,7 +75,7 @@
 ## About The Project
 
 <div display="flex" alignitems="center" justify-content="center">
-  <img src="image/mlbscores.png" alt="Logo" width="500" height="300">
+  <img src="image/mlbscores.png" alt="Logo" width="800" height="400">
   <img src="image/pastresultmobile.png" alt="Logo" width="180" height="400">  
 </div>
 
