@@ -74,8 +74,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="image/mlbscores.png" alt="Logo" width="500" height="200">
-<img src="image/pastresultmobile.png" alt="Logo" width="180" height="200">
+<div display="flex" alignitems="center" justify-content="center">
+  <img src="image/mlbscores.png" alt="Logo" width="500" height="300">
+  <img src="image/pastresultmobile.png" alt="Logo" width="180" height="400">  
+</div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
